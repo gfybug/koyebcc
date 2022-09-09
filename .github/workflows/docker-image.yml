@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: nszzzz/ns001
+          tags: ariannacris/ns001
